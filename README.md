@@ -1,1 +1,1 @@
-# python_microblog
+# flask_microblog
